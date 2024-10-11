@@ -24,7 +24,7 @@ npx remix vite:build
 3. Run:
 
 ```bash
-npx remix-serve build/server/index.js
+npm run dev
 ```
 
 
